@@ -15,10 +15,12 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -27,6 +29,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
