@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,8 +36,13 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajeshwarikoppad875-oss/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
